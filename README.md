@@ -17,9 +17,9 @@
     <br />
     <br />
     ·
-    <a href="https://github.com/componentity/nexttailpwa/issues">Report Bug</a>
+    <a href="https://github.com/componentity/nextwind/issues">Report Bug</a>
     ·
-    <a href="https://github.com/componentity/nexttailpwa/issues">Request Feature</a>
+    <a href="https://github.com/componentity/nextwind/issues">Request Feature</a>
   </p>
 </p>
 
@@ -43,11 +43,11 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/componentity/nexttailpwa.git
+   git clone https://github.com/componentity/nextwind.git
    ```
-2. cd to the directory (nexttailpwa)
+2. cd to the directory (nextwind)
    ```sh
-   cd nexttailpwa
+   cd nextwind
    ```
 3. Install NPM packages
    ```sh
@@ -87,20 +87,20 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Mr. Code - [@mymakarim](https://twitter.com/mymakarim) - ymakarim@gmail.com
 Meh Mohammadi - [@mehmoh41](https://github.com/mehmoh41) - moh.meh41@gmail.com
 
-Project Link: [https://github.com/componentity/nexttailpwa](https://github.com/componentity/nexttailpwa)
+Project Link: [https://github.com/componentity/nextwind](https://github.com/componentity/nextwind)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/badge/contributers-2-green.svg?style=for-the-badge
-[contributors-url]: https://github.com/componentity/nexttailpwa/graphs/contributors
+[contributors-url]: https://github.com/componentity/nextwind/graphs/contributors
 [forks-shield]: https://img.shields.io/badge/forks-2-blue.svg?style=for-the-badge
-[forks-url]: https://github.com/componentity/nexttailpwa/network/members
+[forks-url]: https://github.com/componentity/nextwind/network/members
 [stars-shield]: https://img.shields.io/badge/stars-2-yellow.svg?style=for-the-badge
-[stars-url]: https://github.com/componentity/nexttailpwa/stargazers
+[stars-url]: https://github.com/componentity/nextwind/stargazers
 [issues-shield]: https://img.shields.io/badge/issues-0-orange.svg?style=for-the-badge
-[issues-url]: https://github.com/componentity/nexttailpwa/issues
+[issues-url]: https://github.com/componentity/nextwind/issues
 [license-shield]: https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge
-[license-url]: https://github.com/componentity/nexttailpwa/blob/master/LICENSE.txt
+[license-url]: https://github.com/componentity/nextwind/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mymakarim
