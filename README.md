@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://componentity.com">
+  <a href="https://componentity.com"></a>
     <img src="./public/logo.png" alt="Logo componentity" height="200">
   </a>
 
